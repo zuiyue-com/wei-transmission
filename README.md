@@ -1,6 +1,6 @@
 # wei-transmission
 
-- [ ] 尝试搭多公网种子
+- [ ] 尝试搭建多公网种子
 - [ ] 搭建private tracker
 - [ ] 开启 transmission-daemon
 - [ ] 设定存放地址
